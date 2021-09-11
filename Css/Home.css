@@ -8,7 +8,7 @@
 }
 
 .navBar{
-    background-color: #000;
+    background-color: #13121e;
     color: #d8d8d8;
     border-bottom: 0.5px solid gray;
     width: 100%;
@@ -67,9 +67,6 @@
     margin-left: 100px;
 }
 
-body{
-}
-
 h1{
     font-size: 70px;
 }
@@ -85,7 +82,7 @@ main{
 
 .btns{
     margin-top: 20px;
-    background: #000;
+    background: #13121e;
     cursor: pointer;
     color: #d8d8d8;
     padding: 12px 20px;
@@ -93,6 +90,7 @@ main{
     border: 0;
     border-radius: 20px;
     margin-left: 10px;
+    text-decoration: none;
 }
 
 .btns:hover{
